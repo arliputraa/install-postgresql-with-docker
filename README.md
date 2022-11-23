@@ -35,7 +35,7 @@
         
 4. insert sample data nortwind
 
-        $ wget https://raw.githubusercontent.com/git-raka/Northwind_Dataset/main/northwind.sql
+        $ wget https://raw.githubusercontent.com/arliputraa/sample-data-for-postgresql/main/northwind.sql
 
 view the running container
 
